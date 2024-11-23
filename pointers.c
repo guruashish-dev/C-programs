@@ -1,21 +1,3 @@
-// //prg usng pointers
-// #include<stdio.h>
-// int main()
-// {
-//     int a, *p;
-//     p=&a;
-//     a=25;
-//     printf("\nValue in a = %d", a);
-//     printf("\nValue of a using pointer", *p);
-//     printf("\nValue in p p = %d", p);
-//     printf("\nAddress of a ", &a);
-//     printf("Address of p ", &p);
-//     printf("Address of a ", p);
-//     return 0;
-
-
-
-//.write a c prg to assign an integer varialble address, character variable address, float variable
 #include <stdio.h>
 
 int main() {
